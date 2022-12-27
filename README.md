@@ -6,7 +6,7 @@ This is a simple calculator built with JavaScript, HTML, and CSS. It allows you 
 
 To use the calculator, simply enter the numbers and the operator into the input field, and press the "=" button to see the result. You can also use the "C" button to clear the input field.
 
-I hope you find the JavaScript Calculator useful! If you have any feedback or suggestions, please don't hesitate to let us know.
+I hope you find the JavaScript Calculator useful! If you have any feedback or suggestions, please don't hesitate to let me know.
 
 ### Screenshot
 
