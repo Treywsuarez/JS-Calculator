@@ -12,6 +12,8 @@ I hope you find the JavaScript Calculator useful! If you have any feedback or su
 
 ![](./images/Screenshot%202022-12-27%20172205.png)
 
+Deployment here - https://treywsuarez.github.io/JS-Calculator/
+
 
 ### Built with
 
